@@ -1,0 +1,114 @@
+[2025-03-21 14:33:44] Motion Detected
+2025-03-21 14:33:45,Motion Detected
+[2025-03-21 14:33:45] Failed to upload video_21-03-2025-14-33-44.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:33:45] Motion Detected
+2025-03-21 14:33:46,Motion Detected
+[2025-03-21 14:33:46] Failed to upload video_21-03-2025-14-33-45.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:33:46] Motion Detected
+2025-03-21 14:33:47,Motion Detected
+[2025-03-21 14:33:47] Failed to upload video_21-03-2025-14-33-46.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:33:47] Motion Detected
+2025-03-21 14:33:48,Motion Detected
+[2025-03-21 14:33:48] Failed to upload video_21-03-2025-14-33-47.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:33:48] Motion Detected
+2025-03-21 14:33:49,Motion Detected
+[2025-03-21 14:33:49] Failed to upload video_21-03-2025-14-33-48.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:33:49] Motion Detected
+2025-03-21 14:33:50,Motion Detected
+[2025-03-21 14:33:50] Failed to upload video_21-03-2025-14-33-49.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:33:50] Motion Detected
+2025-03-21 14:33:51,Motion Detected
+[2025-03-21 14:33:51] Failed to upload video_21-03-2025-14-33-50.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:33:51] Motion Detected
+2025-03-21 14:33:52,Motion Detected
+[2025-03-21 14:33:52] Failed to upload video_21-03-2025-14-33-51.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:33:52] Motion Detected
+2025-03-21 14:33:53,Motion Detected
+[2025-03-21 14:33:53] Failed to upload video_21-03-2025-14-33-52.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:33:53] Motion Detected
+2025-03-21 14:33:54,Motion Detected
+[2025-03-21 14:33:54] Failed to upload video_21-03-2025-14-33-53.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:12] Motion Detected
+2025-03-21 14:34:13,Motion Detected
+[2025-03-21 14:34:13] Failed to upload video_21-03-2025-14-34-12.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:13] Motion Detected
+2025-03-21 14:34:14,Motion Detected
+[2025-03-21 14:34:14] Failed to upload video_21-03-2025-14-34-13.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:14] Motion Detected
+2025-03-21 14:34:15,Motion Detected
+[2025-03-21 14:34:15] Failed to upload video_21-03-2025-14-34-14.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:15] Motion Detected
+2025-03-21 14:34:16,Motion Detected
+[2025-03-21 14:34:16] Failed to upload video_21-03-2025-14-34-15.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:16] Motion Detected
+2025-03-21 14:34:17,Motion Detected
+[2025-03-21 14:34:17] Failed to upload video_21-03-2025-14-34-16.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:17] Motion Detected
+2025-03-21 14:34:18,Motion Detected
+[2025-03-21 14:34:18] Failed to upload video_21-03-2025-14-34-17.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:18] Motion Detected
+2025-03-21 14:34:19,Motion Detected
+[2025-03-21 14:34:19] Failed to upload video_21-03-2025-14-34-18.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:20] Motion Detected
+2025-03-21 14:34:21,Motion Detected
+[2025-03-21 14:34:21] Failed to upload video_21-03-2025-14-34-20.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:21] Motion Detected
+2025-03-21 14:34:22,Motion Detected
+[2025-03-21 14:34:22] Failed to upload video_21-03-2025-14-34-21.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:22] Motion Detected
+2025-03-21 14:34:23,Motion Detected
+[2025-03-21 14:34:23] Failed to upload video_21-03-2025-14-34-22.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:23] Motion Detected
+2025-03-21 14:34:24,Motion Detected
+[2025-03-21 14:34:24] Failed to upload video_21-03-2025-14-34-23.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:34:24] Motion Detected
+2025-03-21 14:34:25,Motion Detected
+[2025-03-21 14:34:25] Failed to upload video_21-03-2025-14-34-24.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:36:46] Motion Detected
+2025-03-21 14:36:47,Motion Detected
+[2025-03-21 14:36:47] Failed to upload video_21-03-2025-14-36-46.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:36:47] Motion Detected
+2025-03-21 14:36:48,Motion Detected
+[2025-03-21 14:36:48] Failed to upload video_21-03-2025-14-36-47.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:36:48] Motion Detected
+2025-03-21 14:36:49,Motion Detected
+[2025-03-21 14:36:49] Failed to upload video_21-03-2025-14-36-48.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:36:49] Motion Detected
+2025-03-21 14:36:50,Motion Detected
+[2025-03-21 14:36:50] Failed to upload video_21-03-2025-14-36-49.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:36:50] Motion Detected
+2025-03-21 14:36:51,Motion Detected
+[2025-03-21 14:36:51] Failed to upload video_21-03-2025-14-36-50.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:36:51] Motion Detected
+2025-03-21 14:36:52,Motion Detected
+[2025-03-21 14:36:52] Failed to upload video_21-03-2025-14-36-51.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:36:52] Motion Detected
+2025-03-21 14:36:53,Motion Detected
+[2025-03-21 14:36:53] Failed to upload video_21-03-2025-14-36-52.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:39:20] Motion Detected
+2025-03-21 14:39:21,Motion Detected
+[2025-03-21 14:39:21] Failed to upload video_21-03-2025-14-39-20.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:39:21] Motion Detected
+2025-03-21 14:39:22,Motion Detected
+[2025-03-21 14:39:22] Failed to upload video_21-03-2025-14-39-21.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:39:22] Motion Detected
+2025-03-21 14:39:23,Motion Detected
+[2025-03-21 14:39:23] Failed to upload video_21-03-2025-14-39-22.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:39:23] Motion Detected
+2025-03-21 14:39:24,Motion Detected
+[2025-03-21 14:39:24] Failed to upload video_21-03-2025-14-39-23.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:39:26] Motion Detected
+2025-03-21 14:39:27,Motion Detected
+[2025-03-21 14:39:27] Failed to upload video_21-03-2025-14-39-26.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:43:23] Motion Detected
+2025-03-21 14:43:24,Motion Detected
+[2025-03-21 14:43:24] Failed to upload video_21-03-2025-14-43-23.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:43:25] Motion Detected
+2025-03-21 14:43:26,Motion Detected
+[2025-03-21 14:43:26] Failed to upload video_21-03-2025-14-43-25.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:43:26] Motion Detected
+2025-03-21 14:43:27,Motion Detected
+[2025-03-21 14:43:27] Failed to upload video_21-03-2025-14-43-26.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)
+[2025-03-21 14:43:27] Motion Detected
+2025-03-21 14:43:28,Motion Detected
+[2025-03-21 14:43:28] Failed to upload video_21-03-2025-14-43-27.mp4: Invalid client secrets file ('Error opening file', 'client_secrets.json', 'No such file or directory', 2)

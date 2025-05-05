@@ -1,0 +1,4 @@
+[2025-04-28 02:14:05] [ALERT] Motion detected!
+[2025-05-05 22:38:18] [ALERT] Motion detected!
+[2025-05-05 22:38:55] [ALERT] Motion detected!
+[2025-05-05 22:39:01] [ALERT] Motion detected!
